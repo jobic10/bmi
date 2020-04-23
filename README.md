@@ -1,6 +1,6 @@
-# bmi
+# bmi calculator
 
-A new Flutter project.
+A new Flutter project. Inspired by Angela Yu
 
 ## Getting Started
 
